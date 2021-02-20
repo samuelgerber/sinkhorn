@@ -10,6 +10,6 @@ library(devtools)
 if(!require("gmra")){
   devtools::install_github("samuelgerber/gmra")
 }
-devtools::install_github("samuelgerber/sinkhonr")
+devtools::install_github("samuelgerber/sinkhorn")
 ```
 
